@@ -45,6 +45,11 @@ Demais bibliotecas instaladas:
 17. Modelo Básico de Controler
 18. Teste do Servidor
 
+# Exec
+
+1. faça o download do script na pasta onde deseja iniciar o projeto
+2. Rode o comando no terminal $ bash scriptName ou $ sh scriptName
+
 Sinta-se a vontade customizar e criar um pull request!
 
 Att. Gui Crocetti
